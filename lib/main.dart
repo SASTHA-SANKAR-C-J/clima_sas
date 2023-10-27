@@ -1,4 +1,4 @@
-import 'package:clima_sas/screens/loading_screen.dart';
+import 'package:clima_sas/view/loading_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,4 +1,4 @@
-import 'package:clima_sas/utilities/constants.dart';
+import 'package:clima_sas/constants/constants.dart';
 import 'package:flutter/material.dart';
 
 class CityScreen extends StatefulWidget {
@@ -22,7 +22,7 @@ class _CityScreenState extends State<CityScreen> {
         constraints: BoxConstraints.expand(),
         child: SafeArea(
           child: Column(
-            children: <Widget>[
+            children:[
               Align(
                 alignment: Alignment.topLeft,
                 child: TextButton(

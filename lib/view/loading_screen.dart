@@ -1,4 +1,4 @@
-import 'package:clima_sas/services/weather.dart';
+import 'package:clima_sas/model/weather.dart';
 import 'package:flutter/material.dart';
 import 'location_screen.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';

@@ -1,5 +1,5 @@
-import 'package:clima_sas/services/weather.dart';
-import 'package:clima_sas/utilities/constants.dart';
+import 'package:clima_sas/model/weather.dart';
+import 'package:clima_sas/constants/constants.dart';
 import 'package:flutter/material.dart';
 import 'city_screen.dart';
 
